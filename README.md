@@ -1,3 +1,3 @@
-# dotnet-Web-Projects
+# Sample-dotnet-web-projects
 College Projects- C# .Net Based Web Projects
-There are different projects added done as a part of college work.
+Will you be seeing different projects( done as a part of course work ).
